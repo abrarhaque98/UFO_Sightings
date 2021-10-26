@@ -15,6 +15,7 @@ A simple webpage was built where the user does not have to do much in order to f
 The page automatically loads the entire UFO sighting data onto the page. 
 
 To navigate a search simply scroll down to the Filter Search area. 
+
 ![image](https://user-images.githubusercontent.com/85713568/138876217-7d126eac-7f33-45da-80b2-b58d249d6e6f.png)
 
 Enter filter value's as you please. Note: The table only contains dates from from 1/1/201 - 1/13/2010 and must be written in placeholder format (1/10/2010), for example 01/01/2010 will not yield a result. Other things to note the other fields are case sensitive city, state, country, and shape must be lowercase.
