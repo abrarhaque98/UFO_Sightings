@@ -34,3 +34,9 @@ Searches are case sensitive
 ![image](https://user-images.githubusercontent.com/85713568/138877184-0072a60c-5950-4b7f-874e-99478b2b1596.png)
 
 Multiple filters can be used at the same time
+
+
+### Summary
+In summary this webpage does provide an easy access to this dynamic table and is fairly easy to navigatre but the page does contain flaws. 
+The filter's are very specific and a regular user may not be aware of the case sensitivity and date formatting, an adjustment to this would be allowing broader user inputs and having the code filter it into a searchable string within the data.
+A filter suggestion could also show up providing all the possible filters within each filter section.
