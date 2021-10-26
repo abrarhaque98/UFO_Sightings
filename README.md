@@ -30,3 +30,7 @@ improper date format above
 ![image](https://user-images.githubusercontent.com/85713568/138877026-ad22c1e8-4a4d-40cf-90a1-be4854cb4d21.png)
 
 Searches are case sensitive
+
+![image](https://user-images.githubusercontent.com/85713568/138877184-0072a60c-5950-4b7f-874e-99478b2b1596.png)
+
+Multiple filters can be used at the same time
