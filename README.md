@@ -21,8 +21,12 @@ To navigate a search simply scroll down to the Filter Search area.
 Enter filter value's as you please. Note: The table only contains dates from from 1/1/201 - 1/13/2010 and must be written in placeholder format (1/10/2010), for example 01/01/2010 will not yield a result. Other things to note the other fields are case sensitive city, state, country, and shape must be lowercase.
 
 ![image](https://user-images.githubusercontent.com/85713568/138876745-6a6ca704-ce44-4875-8289-2fec1b896d5a.png)
-proper date format
+proper date format displayed above
 
 ![image](https://user-images.githubusercontent.com/85713568/138876808-58c4cc2e-0f82-48d5-8e32-fdb11bd3425b.png)
-improper
+improper date format above
 
+![image](https://user-images.githubusercontent.com/85713568/138876976-2bc7dc6b-a7bb-4a58-9510-a242524e7386.png)
+![image](https://user-images.githubusercontent.com/85713568/138877026-ad22c1e8-4a4d-40cf-90a1-be4854cb4d21.png)
+
+Searches are case sensitive
